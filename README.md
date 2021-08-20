@@ -9,10 +9,11 @@
 
 ## Connect with me
 
-- [My CV/Resume](https://sitnik.dev/)
-- [LinkedIn](https://www.linkedin.com/in/danielsitnik/)
-- [Twitter](https://www.twitter.com/danielsitnik/)
-- [Instagram](https://www.instagram.com/danielsitnik/)
+[![CV/Resume](https://img.shields.io/badge/-MY%20CV%2FRESUME-blueviolet?style=for-the-badge&logo=microsoftacademic&logoColor=white)](https://sitnik.dev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielsitnik/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/danielsitnik/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielsitnik/)
+[![Spotify](https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12150368361)
 
 ## &#x1f4c8; GitHub Stats
 
