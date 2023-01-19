@@ -1,7 +1,7 @@
 ## Hi there, I'm Daniel Sitnik! 👋
 
-- 👨‍💻 I'm a Senior Manager and Architect at [Accenture Interactive](https://www.accenture.com/br-pt/about/accenture-interactive-index).
-- 🌱 I’m currently learning Clean Architecture with [@thombergs](https://github.com/thombergs/buckpal)
+- 👨‍💻 I'm an Associate Director and Principal Architect at [Accenture Song](https://www.accenture.com/us-en/about/accenture-song-index).
+- 🌱 I’m currently developing a full cloud native platform with Nodejs/TypeScript and AWS services.
 - 👯 I’m looking to collaborate on OSS projects.
 - 💬 Ask me about anything!
 - 😄 Pronouns: He/Him
